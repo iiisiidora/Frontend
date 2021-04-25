@@ -18,8 +18,8 @@ ul, ol {
 }
 
 .nav li a {
-    background-color:rgb(77, 33, 33);
-    color:rgb(224, 117, 117);
+    background-color:rgb(124, 118, 118);
+    color:rgb(36, 33, 33);
     text-decoration:none;
     padding:10px 12px;
     display:block;
@@ -50,5 +50,5 @@ ul, ol {
 
 body {
     background-color: #ffdd90;
-    background-image: url("img/fondo3.jpg");
+    background-image: url("img/fondo4.jpg");
   }
